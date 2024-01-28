@@ -1,0 +1,14 @@
+C:\Users\Drabr\source\repos\TaskNo6\TaskNo6\bin\Debug\net8.0\TaskNo6.exe
+C:\Users\Drabr\source\repos\TaskNo6\TaskNo6\bin\Debug\net8.0\TaskNo6.deps.json
+C:\Users\Drabr\source\repos\TaskNo6\TaskNo6\bin\Debug\net8.0\TaskNo6.runtimeconfig.json
+C:\Users\Drabr\source\repos\TaskNo6\TaskNo6\bin\Debug\net8.0\TaskNo6.dll
+C:\Users\Drabr\source\repos\TaskNo6\TaskNo6\bin\Debug\net8.0\TaskNo6.pdb
+C:\Users\Drabr\source\repos\TaskNo6\TaskNo6\obj\Debug\net8.0\TaskNo6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drabr\source\repos\TaskNo6\TaskNo6\obj\Debug\net8.0\TaskNo6.AssemblyInfoInputs.cache
+C:\Users\Drabr\source\repos\TaskNo6\TaskNo6\obj\Debug\net8.0\TaskNo6.AssemblyInfo.cs
+C:\Users\Drabr\source\repos\TaskNo6\TaskNo6\obj\Debug\net8.0\TaskNo6.csproj.CoreCompileInputs.cache
+C:\Users\Drabr\source\repos\TaskNo6\TaskNo6\obj\Debug\net8.0\TaskNo6.dll
+C:\Users\Drabr\source\repos\TaskNo6\TaskNo6\obj\Debug\net8.0\refint\TaskNo6.dll
+C:\Users\Drabr\source\repos\TaskNo6\TaskNo6\obj\Debug\net8.0\TaskNo6.pdb
+C:\Users\Drabr\source\repos\TaskNo6\TaskNo6\obj\Debug\net8.0\TaskNo6.genruntimeconfig.cache
+C:\Users\Drabr\source\repos\TaskNo6\TaskNo6\obj\Debug\net8.0\ref\TaskNo6.dll

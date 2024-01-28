@@ -1,0 +1,14 @@
+C:\Users\Drabr\source\repos\TaskNo5\TaskNo5\bin\Debug\net8.0\TaskNo5.exe
+C:\Users\Drabr\source\repos\TaskNo5\TaskNo5\bin\Debug\net8.0\TaskNo5.deps.json
+C:\Users\Drabr\source\repos\TaskNo5\TaskNo5\bin\Debug\net8.0\TaskNo5.runtimeconfig.json
+C:\Users\Drabr\source\repos\TaskNo5\TaskNo5\bin\Debug\net8.0\TaskNo5.dll
+C:\Users\Drabr\source\repos\TaskNo5\TaskNo5\bin\Debug\net8.0\TaskNo5.pdb
+C:\Users\Drabr\source\repos\TaskNo5\TaskNo5\obj\Debug\net8.0\TaskNo5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drabr\source\repos\TaskNo5\TaskNo5\obj\Debug\net8.0\TaskNo5.AssemblyInfoInputs.cache
+C:\Users\Drabr\source\repos\TaskNo5\TaskNo5\obj\Debug\net8.0\TaskNo5.AssemblyInfo.cs
+C:\Users\Drabr\source\repos\TaskNo5\TaskNo5\obj\Debug\net8.0\TaskNo5.csproj.CoreCompileInputs.cache
+C:\Users\Drabr\source\repos\TaskNo5\TaskNo5\obj\Debug\net8.0\TaskNo5.dll
+C:\Users\Drabr\source\repos\TaskNo5\TaskNo5\obj\Debug\net8.0\refint\TaskNo5.dll
+C:\Users\Drabr\source\repos\TaskNo5\TaskNo5\obj\Debug\net8.0\TaskNo5.pdb
+C:\Users\Drabr\source\repos\TaskNo5\TaskNo5\obj\Debug\net8.0\TaskNo5.genruntimeconfig.cache
+C:\Users\Drabr\source\repos\TaskNo5\TaskNo5\obj\Debug\net8.0\ref\TaskNo5.dll
